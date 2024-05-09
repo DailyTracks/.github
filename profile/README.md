@@ -14,11 +14,45 @@ DailyTracks는 지도 위에 사람들의 일상을 기록하는 라이프 로�
 ### 예상 설계안(feat. 최효진)
 ![image](https://github.com/DailyTracks/.github/assets/126179088/38d95831-be49-420e-9f7f-1b859554cc63)
 
+### ERD
+<img src="https://github.com/DailyTracks/.github/assets/126179088/79d1e14b-f727-4d7e-8fc4-58cb8f405860" width="600px"/>
+
+### 엔드포인트 명세서
+> BASE URL : http://host:port/api
+<img src="https://github.com/DailyTracks/.github/assets/126179088/b881c8c7-000e-40ff-ad9e-3458f53e7ef1" width="500px"/>
+
+<img src="https://github.com/DailyTracks/.github/assets/126179088/1d9d5830-e020-4e38-9ba7-7ee069127108" width="500px"/>
+
+
 ### 개발 환경
-infra : aws ec2
-database : 미정
-framework : express, react
-main lib : leaflet
+* backend
+  * infra
+    * AWS EC2 (계획중)
+    * AWS RDS
+  * database
+    * mysql
+    * redis 
+  * framework
+    * express
+  * library usage
+    * auth service
+      * passport-naver-v2
+      * passport-kakao
+      * express-session
+    * chat service
+      * socket.io
+    * ORM
+      * sequelize-auto
+      * sequelize
+    * end-point docs
+      * swagger
+    * logging
+      * winston
+* frontend
+  * infra
+    * AWS EC2 (계획중)
+  * framework : react
+  * library usage : leaflet
 
 > 추후 변경 될 예정
 
