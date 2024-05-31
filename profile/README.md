@@ -15,14 +15,14 @@ DailyTracks는 지도 위에 사람들의 일상을 기록하는 라이프 로�
 ![image](https://github.com/DailyTracks/.github/assets/126179088/38d95831-be49-420e-9f7f-1b859554cc63)
 
 ### ERD
-<img src="https://github.com/DailyTracks/.github/assets/126179088/79d1e14b-f727-4d7e-8fc4-58cb8f405860" width="600px"/>
+![image](https://github.com/DailyTracks/.github/assets/126179088/9d8b0f86-c379-4ad3-9d6f-07abc1951582)
+
 
 ### 엔드포인트 명세서
 > BASE URL : http://host:port/api
-<img src="https://github.com/DailyTracks/.github/assets/126179088/b881c8c7-000e-40ff-ad9e-3458f53e7ef1" width="500px"/>
-
-<img src="https://github.com/DailyTracks/.github/assets/126179088/1d9d5830-e020-4e38-9ba7-7ee069127108" width="500px"/>
-
+![image](https://github.com/DailyTracks/.github/assets/126179088/7f3cd865-885a-4d9c-8a6a-7ecac4508154)
+![image](https://github.com/DailyTracks/.github/assets/126179088/82df5b26-957f-453a-8593-e8fb95e3c354)
+![image](https://github.com/DailyTracks/.github/assets/126179088/5d634ec9-18a8-45bf-b7ea-74fbcea0e3f0)
 
 ### 개발 환경
 * backend
